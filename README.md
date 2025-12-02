@@ -1,8 +1,7 @@
 # rtp-live-monitor
 RTP Package Live monitoring tool
 
-----
-
+/ ---- / 
  RTP LIVE MONITOR (ens160) — Press Q to Quit
 
   RX packets: 60 (+4/s)
@@ -12,3 +11,5 @@ RTP Package Live monitoring tool
   TX Level: #
 
   Direction: <--
+
+/ --- /
